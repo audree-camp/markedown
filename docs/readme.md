@@ -5,7 +5,7 @@
 ### mise en forme
 
 Texte au kilometres
-mise**engras**
+mise **engras**
 _en italique_ ou
 ~~barré~~
 
@@ -76,5 +76,3 @@ La commande `git init`permet d'initialiser un depot git`
 | ---------- | ----------------------- |
 | `git init` | initialise un depot git |
 | `git add`  | ajoute des fichiers     |
-
-année 2023
