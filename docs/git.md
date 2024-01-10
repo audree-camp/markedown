@@ -22,5 +22,6 @@
 ---
 
 - `pip install mkdocs-material`
-- `ctrl c` : commande pour recommencer la manip
-- et recommancer la commande du dessus si ca ne marche pas.
+- `ctrl c` : commande pour arreter le serveur
+  et recommancer la commande du dessus si ca ne marche pas.
+- `mkdocs gh-deploy` : pour deployer son site sur github
