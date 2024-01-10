@@ -9,7 +9,7 @@ mise **engras**
 _en italique_ ou
 ~~barré~~
 
-pas de souligné natif, mais <span> style="color: red; text-decoration:underline";>on peut le faire en html</span>
+pas de souligné natif, mais <span style="color: red; text-decoration:underline";>on peut le faire en html</span>
 
 deuxieme contenu
 
