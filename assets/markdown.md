@@ -1,3 +1,3 @@
 # cours markdown
 
-voir l'ensemble des notes des cours...
+voir l'ensemble des notes des cours.

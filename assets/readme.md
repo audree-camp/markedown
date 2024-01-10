@@ -77,4 +77,4 @@ La commande `git init`permet d'initialiser un depot git`
 | `git init` | initialise un depot git |
 | `git add`  | ajoute des fichiers     |
 
-année 2023-26
+année 2023
