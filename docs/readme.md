@@ -43,8 +43,9 @@ deuxieme contenu
 
 ### Les images
 
-![image sur bureau](./image/image.jpg)
-![image sur internet](https://www.google.com/search?sca_esv=597240485&q=image+libre+de+droit&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjlib3updODAxV6QkEAHe-UBu0Q0pQJegQIDhAB&biw=1257&bih=587&dpr=1#imgrc=7dmpjfGEZoXSVM)
+![image sur bureau](../Capture%20d’écran%202024-01-02%20à%2019.54.23.png)
+
+![image sur internet](https://fr.wikipedia.org/wiki/Siamois_%28chat%29#/media/Fichier:Siamese_cat_Vaillante.JPG)
 
 ## gestion de code
 
