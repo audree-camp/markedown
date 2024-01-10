@@ -1,0 +1,6 @@
+# JS dependencies
+node_modules/
+# PHP dependencies
+vendors/rm
+# Python virtual environnement
+.venv
