@@ -1,1 +1,73 @@
-{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"","title":"Home"},{"location":"git/","text":"git git init : tranforme un dossier en depot git git add nom.js : le prochain commit incluera le fichier git commit -m \"verbs: message\" : cr\u00e9e le commit avec le message git log : historique du d\u00e9p\u00f4t git remote add origin https://github.com/audree-camp/git.git : je reference le depot distant sous le nom \u00ab origin \u00bb git push : pousse sur mon depot distant git clone https://github.com/audree-camp/git.git : je recupere localement une copie d'un depot distant git commit -m 'feat:add login page' \u2014allow-empty : mettre un commentaire sans modification, cela cr\u00e9e un commit vide, sans aucun changement effectif cz bump : monte d'une version \u00e0 une autre. pip install mkdocs : Transforme les fichiers markdown en site web mkdocs new . : on veut creer un nouveau repertoire dans mkdocs mkdocs serve : genere un lien vers site pip install mkdocs-material ctrl c : commande pour recommencer la manip et recommancer la commande du dessus si ca ne marche pas.","title":"git"},{"location":"git/#git","text":"git init : tranforme un dossier en depot git git add nom.js : le prochain commit incluera le fichier git commit -m \"verbs: message\" : cr\u00e9e le commit avec le message git log : historique du d\u00e9p\u00f4t git remote add origin https://github.com/audree-camp/git.git : je reference le depot distant sous le nom \u00ab origin \u00bb git push : pousse sur mon depot distant git clone https://github.com/audree-camp/git.git : je recupere localement une copie d'un depot distant git commit -m 'feat:add login page' \u2014allow-empty : mettre un commentaire sans modification, cela cr\u00e9e un commit vide, sans aucun changement effectif cz bump : monte d'une version \u00e0 une autre. pip install mkdocs : Transforme les fichiers markdown en site web mkdocs new . : on veut creer un nouveau repertoire dans mkdocs mkdocs serve : genere un lien vers site pip install mkdocs-material ctrl c : commande pour recommencer la manip et recommancer la commande du dessus si ca ne marche pas.","title":"git"},{"location":"readme/","text":"cours markdown formatage de texte mise en forme Texte au kilometres mise engras en italique ou ~~barr\u00e9~~ pas de soulign\u00e9 natif, mais style=\"color: red; text-decoration:underline\";>on peut le faire en html deuxieme contenu Ceci est une citation Deuxi\u00e8me citation avec saut de ligne Les puces creer un repertoire Sous \u00e9l\u00e9ment Encore un second niveau Listes non ordonn\u00e9es item1 item2 item1 item2 les liens github mise en forme les liens vers un cours fichier cours 1 Les images gestion de code <html> <head> </head> <body> <h1>titre</h1> </body> </html> La commande git init permet d'initialiser un depot git` cours markdown formatage de texte mise en forme Les puces Listes non ordonn\u00e9es les liens les liens vers un cours Les images gestion de code Les tableaux Les tableaux commande Description git init initialise un depot git git add ajoute des fichiers","title":"cours markdown"},{"location":"readme/#cours-markdown","text":"","title":"cours markdown"},{"location":"readme/#formatage-de-texte","text":"","title":"formatage de texte"},{"location":"readme/#mise-en-forme","text":"Texte au kilometres mise engras en italique ou ~~barr\u00e9~~ pas de soulign\u00e9 natif, mais style=\"color: red; text-decoration:underline\";>on peut le faire en html deuxieme contenu Ceci est une citation Deuxi\u00e8me citation avec saut de ligne","title":"mise en forme"},{"location":"readme/#les-puces","text":"creer un repertoire Sous \u00e9l\u00e9ment Encore un second niveau","title":"Les puces"},{"location":"readme/#listes-non-ordonnees","text":"item1 item2 item1 item2","title":"Listes non ordonn\u00e9es"},{"location":"readme/#les-liens","text":"github mise en forme","title":"les liens"},{"location":"readme/#les-liens-vers-un-cours","text":"fichier cours 1","title":"les liens vers un cours"},{"location":"readme/#les-images","text":"","title":"Les images"},{"location":"readme/#gestion-de-code","text":"<html> <head> </head> <body> <h1>titre</h1> </body> </html> La commande git init permet d'initialiser un depot git` cours markdown formatage de texte mise en forme Les puces Listes non ordonn\u00e9es les liens les liens vers un cours Les images gestion de code Les tableaux","title":"gestion de code"},{"location":"readme/#les-tableaux","text":"commande Description git init initialise un depot git git add ajoute des fichiers","title":"Les tableaux"}]}
+{
+  "config": {
+    "indexing": "full",
+    "lang": ["en"],
+    "min_search_length": 3,
+    "prebuild_index": false,
+    "separator": "[\\s\\-]+"
+  },
+  "docs": [
+    { "location": "", "text": "", "title": "Home" },
+    {
+      "location": "git/",
+      "text": "git git init : tranforme un dossier en depot git git add nom.js : le prochain commit incluera le fichier git commit -m \"verbs: message\" : cr\u00e9e le commit avec le message git log : historique du d\u00e9p\u00f4t git remote add origin https://github.com/audree-camp/git.git : je reference le depot distant sous le nom \u00ab origin \u00bb git push : pousse sur mon depot distant git clone https://github.com/audree-camp/git.git : je recupere localement une copie d'un depot distant git commit -m 'feat:add login page' \u2014allow-empty : mettre un commentaire sans modification, cela cr\u00e9e un commit vide, sans aucun changement effectif cz bump : monte d'une version \u00e0 une autre. pip install mkdocs : Transforme les fichiers markdown en site web mkdocs new . : on veut creer un nouveau repertoire dans mkdocs mkdocs serve : genere un lien vers site pip install mkdocs-material ctrl c : commande pour recommencer la manip et recommancer la commande du dessus si ca ne marche pas.",
+      "title": "git"
+    },
+    {
+      "location": "git/#git",
+      "text": "git init : tranforme un dossier en depot git git add nom.js : le prochain commit incluera le fichier git commit -m \"verbs: message\" : cr\u00e9e le commit avec le message git log : historique du d\u00e9p\u00f4t git remote add origin https://github.com/audree-camp/git.git : je reference le depot distant sous le nom \u00ab origin \u00bb git push : pousse sur mon depot distant git clone https://github.com/audree-camp/git.git : je recupere localement une copie d'un depot distant git commit -m 'feat:add login page' \u2014allow-empty : mettre un commentaire sans modification, cela cr\u00e9e un commit vide, sans aucun changement effectif cz bump : monte d'une version \u00e0 une autre. pip install mkdocs : Transforme les fichiers markdown en site web mkdocs new . : on veut creer un nouveau repertoire dans mkdocs mkdocs serve : genere un lien vers site pip install mkdocs-material ctrl c : commande pour recommencer la manip et recommancer la commande du dessus si ca ne marche pas.",
+      "title": "git"
+    },
+    {
+      "location": "readme/",
+      "text": "cours markdown formatage de texte mise en forme Texte au kilometres mise engras en italique ou ~~barr\u00e9~~ pas de soulign\u00e9 natif, mais style=\"color: red; text-decoration:underline\";>on peut le faire en html deuxieme contenu Ceci est une citation Deuxi\u00e8me citation avec saut de ligne Les puces creer un repertoire Sous \u00e9l\u00e9ment Encore un second niveau Listes non ordonn\u00e9es item1 item2 item1 item2 les liens github mise en forme les liens vers un cours fichier cours 1 Les images gestion de code <html> <head> </head> <body> <h1>titre</h1> </body> </html> La commande git init permet d'initialiser un depot git` cours markdown formatage de texte mise en forme Les puces Listes non ordonn\u00e9es les liens les liens vers un cours Les images gestion de code Les tableaux Les tableaux commande Description git init initialise un depot git git add ajoute des fichiers",
+      "title": "cours markdown"
+    },
+    {
+      "location": "readme/#cours-markdown",
+      "text": "",
+      "title": "cours markdown"
+    },
+    {
+      "location": "readme/#formatage-de-texte",
+      "text": "",
+      "title": "formatage de texte"
+    },
+    {
+      "location": "readme/#mise-en-forme",
+      "text": "Texte au kilometres mise engras en italique ou ~~barr\u00e9~~ pas de soulign\u00e9 natif, mais style=\"color: red; text-decoration:underline\";>on peut le faire en html deuxieme contenu Ceci est une citation Deuxi\u00e8me citation avec saut de ligne",
+      "title": "mise en forme"
+    },
+    {
+      "location": "readme/#les-puces",
+      "text": "creer un repertoire Sous \u00e9l\u00e9ment Encore un second niveau",
+      "title": "Les puces"
+    },
+    {
+      "location": "readme/#listes-non-ordonnees",
+      "text": "item1 item2 item1 item2",
+      "title": "Listes non ordonn\u00e9es"
+    },
+    {
+      "location": "readme/#les-liens",
+      "text": "github mise en forme",
+      "title": "les liens"
+    },
+    {
+      "location": "readme/#les-liens-vers-un-cours",
+      "text": "fichier cours 1",
+      "title": "les liens vers un cours"
+    },
+    { "location": "readme/#les-images", "text": "", "title": "Les images" },
+    {
+      "location": "readme/#gestion-de-code",
+      "text": "<html> <head> </head> <body> <h1>titre</h1> </body> </html> La commande git init permet d'initialiser un depot git` cours markdown formatage de texte mise en forme Les puces Listes non ordonn\u00e9es les liens les liens vers un cours Les images gestion de code Les tableaux",
+      "title": "gestion de code"
+    },
+    {
+      "location": "readme/#les-tableaux",
+      "text": "commande Description git init initialise un depot git git add ajoute des fichiers",
+      "title": "Les tableaux"
+    }
+  ]
+}

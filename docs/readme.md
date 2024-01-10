@@ -5,11 +5,11 @@
 ### mise en forme
 
 Texte au kilometres
-mise **engras**
+mise **en gras**
 _en italique_ ou
 ~~barré~~
 
-pas de souligné natif, mais <span style="color: red; text-decoration:underline";>on peut le faire en html</span>
+Ajout de couleur <span style="color:red;">on peut le faire en html</span>
 
 deuxieme contenu
 
@@ -43,8 +43,8 @@ deuxieme contenu
 
 ### Les images
 
-![image sur burau](./image/image.jpg)
-![image sur internet]()
+![image sur bureau](./image/image.jpg)
+![image sur internet](https://www.google.com/search?sca_esv=597240485&q=image+libre+de+droit&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjlib3updODAxV6QkEAHe-UBu0Q0pQJegQIDhAB&biw=1257&bih=587&dpr=1#imgrc=7dmpjfGEZoXSVM)
 
 ## gestion de code
 
