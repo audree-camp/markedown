@@ -43,4 +43,38 @@ deuxieme contenu
 
 ### Les images
 
-![Text alt](https://www.google.com/search?q=voyage+priv%C3%A9+phot&tbm=isch&ved=2ahUKEwii94-8v9KDAxWxmicCHQ5qB1kQ2-cCegQIABAA&oq=voyage+priv%C3%A9+phot&gs_lcp=CgNpbWcQAzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAUQHjoGCAAQCBAeOgcIABCABBAYUOoEWLQTYOMWaABwAHgAgAFLiAGlA5IBATaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=x2GeZeL3NLG1nsEPjtSdyAU&bih=487&biw=1060#imgrc=LvLnqYirfzc_xM)
+![image sur burau](./image/image.jpg)
+![image sur internet]()
+
+## gestion de code
+
+```html
+<html>
+  <head> </head>
+  <body>
+    <h1>titre</h1>
+  </body>
+</html>
+```
+
+La commande `git init`permet d'initialiser un depot git`
+
+- [cours markdown](#cours-markdown)
+  - [formatage de texte](#formatage-de-texte)
+    - [mise en forme](#mise-en-forme)
+    - [Les puces](#les-puces)
+    - [Listes non ordonnées](#listes-non-ordonnées)
+    - [les liens](#les-liens)
+    - [les liens vers un cours](#les-liens-vers-un-cours)
+    - [Les images](#les-images)
+  - [gestion de code](#gestion-de-code)
+  - [Les tableaux](#les-tableaux)
+
+## Les tableaux
+
+| commande   | Description             |
+| ---------- | ----------------------- |
+| `git init` | initialise un depot git |
+| `git add`  | ajoute des fichiers     |
+
+année 2023-25
